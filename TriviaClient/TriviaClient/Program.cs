@@ -1,5 +1,7 @@
 ﻿using System;
 using System.Collections.Generic;
+using System.Collections.Specialized;
+using System.Configuration;
 using System.Linq;
 using System.Threading.Tasks;
 using System.Net.Sockets;
@@ -9,7 +11,7 @@ namespace TriviaClient
 {
     internal static class Program
     {
-        private const string LOCALHOST = "127.0.0.1"; // "192.168.1.161";
+        private const string LOCALHOST = "127.0.0.1";
         private const int STD_TRIVIA_PORT = 6565;
 
         public static Client client;

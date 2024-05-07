@@ -22,3 +22,4 @@ OpenTrivia fetches questions from the opentdb.com trivia question API, hence the
 - **Ilan Shrir (Developer)**
   - [![instagram](./README_assets/instagram_favicon.png)](https://www.instagram.com/ilanshrir/)
     [![gitlab](./README_assets/gitlab_favicon.png)](https://gitlab.com/_ilan)
+    [![github](./README_assets/github_favicon.png)](https://github.com/ilanlansh)
